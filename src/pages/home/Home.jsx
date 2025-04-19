@@ -1,5 +1,5 @@
 import React from 'react';
-import Profile from '../../assets/home.png';
+import Profile from '../../assets/Home.png';
 import { Link } from 'react-router';
 import { RiArrowRightLine } from 'react-icons/ri';
 import './home.css';

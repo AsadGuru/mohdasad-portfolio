@@ -1,10 +1,15 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Profile from '../../assets/Home.png';
 import { Link } from 'react-router';
 import { RiArrowRightLine } from 'react-icons/ri';
-import './home.css';
+import './Home.css';
 
 const Home = () => {
+
+  useEffect(() => {
+    alert("Make sure your device is in landscape mode !");
+  }, []);
+
   return (
     <section className="home-container grid">
       <img src={Profile} alt="" className="home-img" />

@@ -7,7 +7,7 @@ import './Home.css';
 const Home = () => {
 
   useEffect(() => {
-    alert("Make sure your device is in landscape mode !");
+    alert("Thank You for Visiting 🙏 !");
   }, []);
 
   return (

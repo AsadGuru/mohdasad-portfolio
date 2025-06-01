@@ -210,7 +210,7 @@ export const resume = [
           id: 1,
           category: 'experience',
           icon: <RiBriefcase4Fill />,
-          year: '2024 - Present',
+          year: '2024 - 2025',
           title: 'MERN Stack Developer Trainee <span> AccioJob </span>',
           desc: 'Assists in the development, maintenance, and enhancement of web applications. Utilizes the MERN stack to create dynamic and responsive web applications.',
      },

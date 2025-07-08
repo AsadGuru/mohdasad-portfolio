@@ -288,7 +288,7 @@ export const portfolio = [
           img: projectImg4,
           title: 'Call-App',
           description:
-               'A simple React amd Tailwind application for making voice and video calls using ZEGOCLOUD's UIKit Prebuilt and ZIM plugins.',
+               'A simple React amd Tailwind application for making voice and video calls using ZEGOCLOUD UIKit Prebuilt and ZIM plugins.',
           skills: [skillsImg4, skillsImg5],
           link: 'https://call-app-sage.vercel.app/',
      },

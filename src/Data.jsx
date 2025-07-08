@@ -286,9 +286,9 @@ export const portfolio = [
      {
           id: 4,
           img: projectImg4,
-          title: 'Barbershop Website',
+          title: 'Call-App',
           description:
-               'Short description of the project that was carried out in this portfolio.',
+               'A simple React amd Tailwind application for making voice and video calls using ZEGOCLOUD's UIKit Prebuilt and ZIM plugins.',
           skills: [skillsImg4, skillsImg5],
           link: '',
      },

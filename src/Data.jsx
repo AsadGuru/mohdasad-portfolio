@@ -290,7 +290,7 @@ export const portfolio = [
           description:
                'A simple React amd Tailwind application for making voice and video calls using ZEGOCLOUD's UIKit Prebuilt and ZIM plugins.',
           skills: [skillsImg4, skillsImg5],
-          link: '',
+          link: 'https://call-app-sage.vercel.app/',
      },
 
      {
